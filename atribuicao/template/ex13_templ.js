@@ -1,0 +1,6 @@
+var nome = 'Megan Fox';
+var es5 = 'Olá ' + nome + '!';
+var es6 = `
+    Olá
+    ${nome}!`;
+    console.log(es5,es6);
